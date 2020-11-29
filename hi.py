@@ -19,6 +19,10 @@ def hell():
 
 def mehmet_ben():
     print("hello")
+
+
+def muratisikli():
+    print("muratisikli")
     
 def arif ():
     print("Ben Arif!")
