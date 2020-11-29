@@ -48,5 +48,8 @@ def mehmet():
     print("--") 
    
 def merve():
-    print("Hello again!") 
+    print("Hello again!")
+
+def murat():
+    print("murat_isikli")
 
